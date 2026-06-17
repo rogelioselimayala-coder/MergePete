@@ -1,0 +1,1 @@
+const pepe = document.getAnimations("animacion");
